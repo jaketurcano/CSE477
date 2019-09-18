@@ -1,0 +1,37 @@
+form[method="post"]{
+    width: 20em;
+    margin: auto;
+    padding: 0;
+    height: 13em;
+    border: solid black;
+}
+
+h1 {
+    color: black;
+    background-color: red;
+    margin: 0;
+    padding-left: .25em;
+}
+
+p{
+    text-align: center;
+}
+
+p.message{
+    text-align: left;
+    padding-left: .5em;
+}
+
+div.interact{
+    text-align: center;
+    margin-top: 2em;
+}
+
+input[type="text"]{
+    width: 3em;
+}
+
+input[type="submit"]{
+    width: 7em;
+
+}
